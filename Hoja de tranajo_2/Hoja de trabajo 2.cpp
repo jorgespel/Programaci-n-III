@@ -16,7 +16,7 @@ struct Nodo {
 int main() {
 
 
-    cout << "Nombre del estudiante: Jorge Eduardo Espel Melgar" << endl;
+    cout << "Nombre: Jorge Eduardo Espel Melgar" << endl;
 
 
     //Crear el primer nodo
