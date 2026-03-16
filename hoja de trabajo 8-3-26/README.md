@@ -1,5 +1,7 @@
 Tarea IV - Lista Simple
-Nombre: Jorge Eduardo Espel Melgar Carné: 9941-24-10596 Sección: B
+
+**Nombre: Jorge Eduardo Espel Melgar 
+Carné: 9941-24-10596 Sección: B**
 
 ## Descripción
 Este programa implementa una **lista enlazada simple utilizando memoria dinámica en C++**.  
