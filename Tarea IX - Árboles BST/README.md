@@ -14,11 +14,11 @@ Los valores menores van a la izquierda.
 Los valores mayores o iguales van a la derecha.
 
 ## Recorridos utilizados
-## InOrden:
+# InOrden:
 Recorre primero el lado izquierdo, luego la raíz y después el lado derecho. Este recorrido muestra los datos ordenados de menor a mayor.
 
-## PreOrden:
+# PreOrden:
 Recorre primero la raíz, luego el lado izquierdo y después el derecho.
 
-## PostOrden:
+# PostOrden:
 Recorre primero el lado izquierdo, luego el derecho y al final la raíz.
