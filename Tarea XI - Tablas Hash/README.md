@@ -1,3 +1,7 @@
+## Estudiante: Jorge Eduardo Espel Melgar 
+## Carnet: 9941-24-10596
+## Curso: Progrmacion III Seccion: B
+
 ## Descripción
 En esta tarea se realizaron dos implementaciones para almacenar estudiantes utilizando estructuras hash:
 
